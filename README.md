@@ -1,2 +1,2 @@
 # opencv
-just practise
+just practice
